@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "858727164441",
+    "firebase_url": "https://pharmaco-a4f66-default-rtdb.firebaseio.com",
+    "project_id": "pharmaco-a4f66",
+    "storage_bucket": "pharmaco-a4f66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858727164441:android:c04fe962db2ee256079888",
+        "android_client_info": {
+          "package_name": "com.example.pharmaco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWaB62GmG2oAlgl2H0kre-064c1i-CKqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
